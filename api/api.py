@@ -8,23 +8,24 @@ app = Flask(__name__) #Através desse app poderei criar as minhas rotas
 
 usuarios = [
     {
-        'id': 1,
-        'nome': 'Micael',
-        'idade': 18,
-        'Sexo': 'M'
+    'nome': 'Micael',
+    'idade': 18
     },
     {
-        'id': 2,
-        'nome': 'Ana',
-        'idade': 14,
-        'Sexo': 'F'
+    'nome': 'ana',
+    'idade': 14
     },
-
     {
-        'id': 3,
-        'nome': 'Ana Paula',
-        'idade': 41,
-        'Sexo': 'F'
+    'nome': 'rafael',
+    'idade': 22
+    },
+    {
+    'nome': 'lucas',
+    'idade': 30
+    },
+    {
+    'nome': 'maria',
+    'idade': 12
     }
 ]
 
