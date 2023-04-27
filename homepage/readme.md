@@ -28,4 +28,5 @@ Para passar as variaveis para a homepage elas precisam receber elas mesmas, essa
     <p>{{usuario.nome}}</p>
     {% endfor %}
 
-Primeira coisa quando você abre chaves é coloca o simbolo da porcentagem você pode escrever codigos python no HTML, isso acaba ajudando, o exemplo que eu usei foi uma lista onde eu queria apenas o nome dos usuarios, lembrando que e preciso passar duas chaves uma dentro da outros para qualquer varíavel seja ela lista ou não, Ex. {{usuario.nome}}.
+Primeira coisa quando você abre chaves é coloca o símbolo da porcentagem você pode escrever codigos python no HTML, isso acaba ajudando, o exemplo que eu usei foi uma lista onde eu queria apenas o nome dos usuarios, lembrando que e preciso passar duas chaves, uma dentro da outra, para qualquer varíavel seja ela lis[
+ta ou não, Ex. {{usuario.nome}}.
